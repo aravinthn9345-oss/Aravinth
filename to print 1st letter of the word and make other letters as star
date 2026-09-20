@@ -1,0 +1,6 @@
+a=input("enter a word")
+b=a[0]
+s=len(a)
+star=(s-1)
+s1=star*"*"
+print(b+s1)
